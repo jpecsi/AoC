@@ -6,6 +6,7 @@
 
 
 ##### FUNCTIONS #####
+
 # Read input file
 def get_input_data(fn):
     d = []
@@ -57,7 +58,7 @@ def part2():
     
     result = x[0] + x[1] + x[2]
     show_result(2,result)
-    
+
 #####################
 
 
